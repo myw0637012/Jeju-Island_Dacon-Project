@@ -1,4 +1,4 @@
-# Jeju-island_Dacon-Project
+# Jeju-island_Dacon-Project.
 
 # 제주 신용카드 빅데이터 경진대회(DACON)
 ## 1. 데이콘 머신러닝 경진대회 소개 및 개요
